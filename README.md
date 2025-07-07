@@ -73,9 +73,9 @@ Este repositorio contiene el desarrollo completo del sistema **Portal de Noticia
     npm run dev
     ```
 5. Acceder desde el navegador:
-  ```
-    http://localhost:5173/
-  ```
+    ```
+      http://localhost:5173/
+    ```
 ## 📂 Recursos adicionales:
 Informse técnicos PDF
 Diagramas de arquitectura y Gantt
